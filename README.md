@@ -19,10 +19,10 @@
 <div align="center">
 
 ### 💻 Tech Stack
-<img src="https://skillicons.dev/icons?i=java,react,nodejs,ts,js,postgres,mysql,bootstrap,html,css" />
+<img src="https://skillicons.dev/icons?i=java,react,nodejs,js,postgres,mysql,bootstrap,html,css" />
 
 ### 📚 I'm learning...
-<img src="https://skillicons.dev/icons?i=spring,nextjs,python" />
+<img src="https://skillicons.dev/icons?i=ts,spring,nextjs,python" />
 
 ### 🛠️ Version Control & Tools
 <img src="https://skillicons.dev/icons?i=git,github,vite,vscode,postman" />
